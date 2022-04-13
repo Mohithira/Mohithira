@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mohithira
-- 👀 I’m interested in Python?Data Analysis/ Data Science/ Machine Learning/Deep Learning
+- 👀 I’m interested in Python/Data Analysis/ Data Science/ Machine Learning/Deep Learning
 - 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on Software/data analysis / paid projects / paid internships 
 - 📫 Contact me via - mohithira54@gmail.com
